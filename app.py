@@ -96,7 +96,7 @@ def index():
       <div class="name">-</div>
     </div>
   </div>
-  <button id="startButton">Start</button>
+  <button id="startButton">Start .</button>
 
   <script>
     const names = ["1ο ΓΕΛ", "ΓΕΛ Κρεμαστής", "3ο ΓΕΛ", "4ο ΓΕΛ"];
