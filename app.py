@@ -152,7 +152,7 @@ def index():
       // Show rigged results after normal animation
       setTimeout(() => {
         name1.textContent = "1ο ΓΕΛ"; // Specific combination
-        name2.textContent = "ΓΕΛ Κρεμαστής";
+        name2.textContent = "3o ΓΕΛ";
       }, 3500); // Show rigged result after 3.5 seconds (end of normal spin animation)
     }
 
